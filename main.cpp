@@ -1,4 +1,3 @@
-#include "mahjong_tiles.h"
 #include "Minesweeper.h"
 
 int main() {
